@@ -4,6 +4,8 @@
  */
 package testegit;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author evaldo_matias
@@ -15,5 +17,9 @@ public class TesteGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        
+        JOptionPane.showMessageDialog(null,"teste");
+               
     }
 }
